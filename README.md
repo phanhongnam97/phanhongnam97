@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phanhongnam97
 - 👀 I’m interested in vuejs, nodejs
-- 🌱 I’m currently learning nodejs
+- 🌱 I’m currently learning nodejs, nestjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 Chat on Skype live:namphonght97
 
